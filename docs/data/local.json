@@ -1,17 +1,17 @@
 [
   {
     "name": "Carolina Lastra",
-    "Empresa": "AguasLAB",
-    "Email": "carolastra.cofre@gmail.com"
+    "empresa": "AguasLAB",
+    "email": "carolastra.cofre@gmail.com"
   },
   {
     "name": "Constanza García",
-    "Empresa": "Laboratoria",
-    "Email": "o.conii.o@gmail.com"
+    "empresa": "Laboratoria",
+    "email": "o.conii.o@gmail.com"
   },
   {
     "name": "Camila Ramírez",
-    "Empresa": "Elestudio",
-    "Email": "camiramirezpp@gmail.com"
+    "empresa": "Elestudio",
+    "email": "camiramirezpp@gmail.com"
   }
 ]
