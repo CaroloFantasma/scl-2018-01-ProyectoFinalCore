@@ -30,7 +30,7 @@ firebase.database().ref('visitas')
     <td>${newMessage.val().ruts}</td>
     <td>${newMessage.val().patentes} </td>
     <td>${time.getHours()}:${time.getMinutes()} del día ${time.getDate()}/${time.getMonth() + 1}/${time.getFullYear()}</td>
-    <td><img src="${dataPhoto}" alt="algo"></td>
+    <td><img src="${dataPhoto}" alt="algo" style="width:200px; height:auto;" ></td>
     </tr> 
           `+ invitadosContainer.innerHTML;
   });
